@@ -32,7 +32,7 @@ let fruitQTan = false;
 let fruitSlowDown = false;
 
 // 点击右上方图标更换水果：false 改为 true 即可
-let clickChangeFruit = false;
+let clickChangeFruit = true;
 
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;
